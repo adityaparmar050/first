@@ -1,5 +1,5 @@
 # Features  
 - Home page 
 - About page  
-- Contact page
+- FAQ page
 
