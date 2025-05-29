@@ -1,5 +1,5 @@
 # Features  
 - Home page 
-- About page  
+- team page  
 - Contact page
 
