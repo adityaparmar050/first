@@ -1,3 +1,0 @@
-﻿# first
-# second
-This project is managed by two developers.
